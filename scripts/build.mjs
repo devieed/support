@@ -49,6 +49,8 @@ const ICONS = {
 };
 ICONS.site = ICONS.globe;
 
+const GA_ID = "G-VKNNL7EJDL";
+
 const site = JSON.parse(fs.readFileSync(path.join(contentDir, "site.json"), "utf8"));
 const apps = JSON.parse(fs.readFileSync(path.join(contentDir, "apps.json"), "utf8"));
 const messages = Object.fromEntries(
@@ -166,6 +168,14 @@ function shell(lang, basePath, active, page) {
   return `<!DOCTYPE html>
 <html lang="${lang.html}">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_ID}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '${GA_ID}');
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>${esc(page.title)}</title>
