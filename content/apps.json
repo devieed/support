@@ -1,0 +1,720 @@
+[
+  {
+    "slug": "beat-ghost",
+    "category": "game",
+    "sample": false,
+    "featured": true,
+    "icon": "/assets/apps/beat-ghost/logo.png",
+    "cover": "/assets/apps/beat-ghost/banner.png",
+    "screenshots": [
+      "/assets/apps/beat-ghost/shot-1.jpg",
+      "/assets/apps/beat-ghost/shot-2.jpg",
+      "/assets/apps/beat-ghost/shot-3.jpg"
+    ],
+    "status": "released",
+    "platforms": [
+      "android"
+    ],
+    "accent": "#1d4ed8",
+    "updated": "2026-09-30",
+    "links": {
+      "play": "https://play.google.com/store/apps/details?id=net.zrex.bestghost",
+      "appstore": "",
+      "web": "",
+      "privacy": "https://best.ghost.support.z-rex.net/privacy",
+      "terms": "https://best.ghost.support.z-rex.net/terms",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "Beat Ghost",
+        "tagline": "Hit the beat, collect cards, and unleash a heavy strike.",
+        "summary": "Turn the music's rhythm into your next hit.",
+        "body": [
+          "Follow the music across several tracks and grab the cards that appear. Build your pool, collect 5 cards, and get ready to attack. The more precise your timing, the harder the cards hit.",
+          "During play, cards show up at random on different tracks. Assemble a set of 5 and turn your rhythm into a heavy attack.",
+          "The groove does not stay the same. As the track rises, the game moves through LOW, then MID, then HIGH. When the music peaks, get ready for the hardest and wildest rhythm burst in the song."
+        ]
+      },
+      "zh-Hans": {
+        "name": "节奏小幽灵",
+        "tagline": "跟着节奏踩拍，收集卡牌，释放强力打击！",
+        "summary": "将音乐节奏转化为你的下一次打击！",
+        "body": [
+          "在多轨道上跟随音乐节奏，抓取出现的卡牌。组建你的卡牌池，集齐 5 张卡牌，为发起攻击做好准备。你的击拍时机越精准，卡牌释放出的威力就越强大！",
+          "游戏过程中，卡牌会在不同轨道上随机出现。组建包含 5 张卡牌的组合，将你的节奏表现转化为极具威力的攻击。",
+          "音乐的律动并非一成不变。随着曲调逐渐高亢，游戏将进入不同阶段：LOW（低阶） → MID（中阶） → HIGH（高阶）当音乐达到高潮时，准备迎接全曲最具挑战性、最刺激的节奏爆发吧！"
+        ]
+      },
+      "zh-Hant": {
+        "name": "節奏小幽靈",
+        "tagline": "跟著節奏踩拍，收集卡牌，釋放強力打擊！",
+        "summary": "將音樂節奏轉化為你的下一次打擊！",
+        "body": [
+          "在多軌道上跟隨音樂節奏，抓取出現的卡牌。組建你的卡牌池，集齊 5 張卡牌，為發起攻擊做好準備。你的擊拍時機越精準，卡牌釋放出的威力就越強大！",
+          "遊戲過程中，卡牌會在不同軌道上隨機出現。組建包含 5 張卡牌的組合，將你的節奏表現轉化為極具威力的攻擊。",
+          "音樂的律動並非一成不變。隨著曲調逐漸高亢，遊戲將進入不同階段：LOW（低階）→ MID（中階）→ HIGH（高階）。當音樂達到高潮時，準備迎接全曲最具挑戰性、最刺激的節奏爆發吧！"
+        ]
+      },
+      "es": {
+        "name": "Beat Ghost",
+        "tagline": "Sigue el ritmo, reúne cartas y descarga un golpe potente.",
+        "summary": "Convierte el ritmo de la música en tu siguiente golpe.",
+        "body": [
+          "Sigue la música en varias pistas y atrapa las cartas que aparecen. Forma tu mazo, reúne 5 cartas y prepárate para atacar. Cuanto más preciso sea el tiempo, más fuerte pega la carta.",
+          "Durante la partida, las cartas aparecen al azar en distintas pistas. Arma una combinación de 5 y convierte tu ritmo en un ataque devastador.",
+          "El pulso no se queda quieto. A medida que la melodía sube, el juego pasa por LOW (bajo), MID (medio) y HIGH (alto). Cuando la música llega al clímax, prepárate para la ráfaga de ritmo más difícil y emocionante de toda la canción."
+        ]
+      },
+      "ja": {
+        "name": "ビートゴースト",
+        "tagline": "リズムに合わせて踏み、カードを集め、強力な一撃を放て。",
+        "summary": "音楽のリズムを、次の一撃に変える。",
+        "body": [
+          "複数のレーンで音楽のリズムを追い、現れるカードをつかもう。カードプールを組み、5枚そろえて攻撃の準備を整える。タイミングが正確なほど、カードの威力は大きくなる。",
+          "プレイ中、カードはレーンごとにランダムに現れる。5枚の組み合わせを作り、リズムの出来を強力な攻撃に変えよう。",
+          "曲のノリは一定ではない。メロディが高まるにつれ、LOW（低）→ MID（中）→ HIGH（高）へと進む。クライマックスでは、曲いちばんの難所で、最も熱いリズムの爆発が待っている。"
+        ]
+      },
+      "ko": {
+        "name": "비트 고스트",
+        "tagline": "리듬에 맞춰 밟고, 카드를 모아, 강력한 타격을 날리세요.",
+        "summary": "음악의 리듬을 다음 타격으로 바꾸세요.",
+        "body": [
+          "여러 트랙에서 음악의 리듬을 따라가며 나타나는 카드를 잡으세요. 카드 풀을 만들고 5장을 모아 공격을 준비합니다. 타이밍이 정확할수록 카드의 위력은 더 커집니다.",
+          "플레이 중 카드는 트랙마다 무작위로 나타납니다. 5장으로 조합을 만들어 리듬 실력을 강력한 공격으로 바꾸세요.",
+          "곡의 그루브는 그대로이지 않습니다. 멜로디가 고조되면 LOW(낮음), MID(중간), HIGH(높음) 단계로 들어갑니다. 클라이맥스에서는 곡 전체에서 가장 어렵고 짜릿한 리듬 폭발이 기다립니다."
+        ]
+      },
+      "de": {
+        "name": "Beat Ghost",
+        "tagline": "Triff den Takt, sammle Karten und setze einen starken Schlag.",
+        "summary": "Verwandle den Rhythmus der Musik in deinen nächsten Treffer.",
+        "body": [
+          "Folge der Musik auf mehreren Spuren und schnapp dir die Karten, die auftauchen. Baue deinen Vorrat auf, sammle 5 Karten und mach dich zum Angriff bereit. Je genauer dein Timing, desto stärker die Karte.",
+          "Während des Spiels erscheinen Karten zufällig auf verschiedenen Spuren. Stelle eine Kombination aus 5 Karten zusammen und verwandle dein Rhythmusgefühl in einen heftigen Angriff.",
+          "Der Groove bleibt nicht gleich. Steigt die Melodie, durchläuft das Spiel LOW (niedrig), MID (mittel) und HIGH (hoch). Auf dem Höhepunkt wartet der schwierigste und aufregendste Rhythmusausbruch des ganzen Stücks."
+        ]
+      },
+      "fr": {
+        "name": "Beat Ghost",
+        "tagline": "Suivez le rythme, collectionnez des cartes et lancez une frappe puissante.",
+        "summary": "Transformez le rythme de la musique en votre prochaine frappe.",
+        "body": [
+          "Suivez la musique sur plusieurs pistes et attrapez les cartes qui apparaissent. Constituez votre réserve, rassemblez 5 cartes et préparez l’attaque. Plus votre timing est précis, plus la carte frappe fort.",
+          "Pendant la partie, les cartes apparaissent au hasard sur différentes pistes. Formez une combinaison de 5 cartes et transformez votre sens du rythme en une attaque dévastatrice.",
+          "Le groove ne reste pas le même. À mesure que la mélodie monte, la partie passe par LOW (bas), MID (moyen) puis HIGH (haut). Au sommet du morceau, préparez-vous à la rafale de rythme la plus difficile et la plus intense."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "magicbrickbreaker",
+    "category": "game",
+    "sample": false,
+    "icon": "/assets/apps/magicbrickbreaker/logo.png",
+    "cover": "/assets/apps/magicbrickbreaker/banner.png",
+    "screenshots": [
+      "/assets/apps/magicbrickbreaker/shot-1.jpg",
+      "/assets/apps/magicbrickbreaker/shot-2.jpg"
+    ],
+    "status": "released",
+    "platforms": [
+      "android"
+    ],
+    "accent": "#0f766e",
+    "updated": "2026-09-30",
+    "links": {
+      "play": "https://play.google.com/store/apps/details?id=net.zrex.magicbrickbreaker",
+      "appstore": "",
+      "web": "",
+      "privacy": "https://magicbrickbreaker.z-rex.net/privacy-policy",
+      "terms": "https://magicbrickbreaker.z-rex.net/terms-of-service",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "Magic Brick Breaker",
+        "tagline": "Aim, fire, and watch the ball ricochet through the bricks. Find the angle, chain the hits, and score faster.",
+        "summary": "Magic Brick Breaker is a brisk physics brick-breaker.",
+        "body": [
+          "How it plays",
+          "• Aim and fire with one finger. Easy to pick up.",
+          "• Real physics bounces, with changing angles off walls and bricks.",
+          "• Several balls can share the screen, and the count can grow as you play.",
+          "• Combos: consecutive hits speed the ball up and sharpen the feel.",
+          "Power-ups",
+          "• Extra ball: fire more balls.",
+          "• Clear: one heavy hit that wipes bricks away.",
+          "• Split: double the balls fired this round and cover more of the screen.",
+          "Modes",
+          "• Endless: see how many rounds you last and chase the high score.",
+          "• Levels: reach a target score within a limited number of rounds.",
+          "Also",
+          "• Collect diamonds as you play.",
+          "• Optional rewarded videos. They play only when you tap, and can add balls or push bricks back.",
+          "• Portrait layout, built for phones.",
+          "• Fits notches and safe areas.",
+          "• Chinese, English, and Spanish.",
+          "Easy to start, hard to put down. Find the ricochet and start your combo."
+        ]
+      },
+      "zh-Hans": {
+        "name": "魔法砖块破坏者",
+        "tagline": "瞄准、发射，看着弹球在砖块间弹射——找准角度，打出连击，越打越快、分数越高！",
+        "summary": "Magic Brick Breaker（魔力弹球）是一款节奏明快的物理弹球打砖块游戏。",
+        "body": [
+          "核心玩法",
+          "• 单指瞄准发射，操作简单",
+          "• 真实物理反弹，碰墙、碰砖角度多变",
+          "• 支持多球同屏，球数可随游戏推进增加",
+          "• 连击系统：连续命中砖块可加速，手感更爽",
+          "道具系统",
+          "• 加球：增加可发射的弹球数量",
+          "• 清屏：强力一击清除砖块",
+          "• 分裂：本回合发射数量翻倍，覆盖更广",
+          "游戏模式",
+          "• 无尽模式：看你能坚持多少回合，挑战最高纪录",
+          "• 关卡模式：在限定回合内达成目标分数",
+          "更多亮点",
+          "• 游戏过程中可收集钻石",
+          "• 可选激励视频：仅在您主动点击时观看，获得加球或顶回砖块等帮助",
+          "• 竖屏界面，专为手机优化",
+          "• 适配刘海屏与安全区",
+          "• 支持中文、英文、西班牙语",
+          "上手容易，越玩越上头。找准那条弹射路线，开启你的连击吧！"
+        ]
+      },
+      "zh-Hant": {
+        "name": "魔法磚塊破壞者",
+        "tagline": "瞄準、發射，看著彈球在磚塊間彈射——找準角度，打出連擊，越打越快、分數越高！",
+        "summary": "魔法磚塊破壞者是一款節奏明快的物理彈球打磚塊遊戲。",
+        "body": [
+          "核心玩法",
+          "• 單指瞄準發射，操作簡單",
+          "• 真實物理反彈，碰牆、碰磚角度多變",
+          "• 支援多球同屏，球數可隨遊戲推進增加",
+          "• 連擊系統：連續命中磚塊可加速，手感更爽",
+          "道具系統",
+          "• 加球：增加可發射的彈球數量",
+          "• 清屏：強力一擊清除磚塊",
+          "• 分裂：本回合發射數量翻倍，覆蓋更廣",
+          "遊戲模式",
+          "• 無盡模式：看你能堅持多少回合，挑戰最高紀錄",
+          "• 關卡模式：在限定回合內達成目標分數",
+          "更多亮點",
+          "• 遊戲過程中可收集鑽石",
+          "• 可選獎勵影片：僅在您主動點選時觀看，獲得加球或頂回磚塊等幫助",
+          "• 直式介面，專為手機最佳化",
+          "• 適配瀏海螢幕與安全區",
+          "• 支援中文、英文、西班牙文",
+          "上手容易，越玩越停不下來。找準那條彈射路線，開啟你的連擊吧！"
+        ]
+      },
+      "es": {
+        "name": "Magic Brick Breaker",
+        "tagline": "Apunta, dispara y mira cómo la bola rebota entre los ladrillos. Encuentra el ángulo, encadena golpes y sube la puntuación.",
+        "summary": "Magic Brick Breaker es un rompebloques de física, rápido y directo.",
+        "body": [
+          "Cómo se juega",
+          "• Apunta y dispara con un dedo. Fácil de aprender.",
+          "• Rebotes con física real: el ángulo cambia al tocar muros y ladrillos.",
+          "• Varias bolas pueden estar en pantalla, y el número puede crecer durante la partida.",
+          "• Combos: los impactos seguidos aceleran la bola y afinan el tacto.",
+          "Objetos",
+          "• Bola extra: dispara más bolas.",
+          "• Limpieza: un golpe fuerte que elimina ladrillos.",
+          "• División: duplica las bolas de esta ronda y cubre más pantalla.",
+          "Modos",
+          "• Infinito: aguanta todas las rondas que puedas y persigue el récord.",
+          "• Niveles: llega a la puntuación objetivo en un número limitado de rondas.",
+          "Además",
+          "• Recoge diamantes mientras juegas.",
+          "• Vídeos bonificados opcionales. Solo se reproducen si tú los pulsas, y pueden añadir bolas o devolver ladrillos.",
+          "• Interfaz vertical, pensada para el teléfono.",
+          "• Se adapta a las muescas y a las zonas seguras.",
+          "• Chino, inglés y español.",
+          "Se aprende en un momento y engancha. Encuentra la trayectoria y empieza tu combo."
+        ]
+      },
+      "ja": {
+        "name": "マジック・ブリック・ブレイカー",
+        "tagline": "狙って撃て。ボールがブロックのあいだを跳ねる。角度を見つけてコンボを重ね、どんどん速く、スコアを伸ばそう。",
+        "summary": "マジック・ブリック・ブレイカーは、テンポの良い物理演算のブロック崩しです。",
+        "body": [
+          "遊び方",
+          "• 指一本で狙って発射。操作はシンプル。",
+          "• 本物の物理反発。壁やブロックに当たる角度が毎回変わる。",
+          "• 複数のボールを同時に出せて、進むほど数を増やせる。",
+          "• コンボ：連続で当てると加速し、手触りが鋭くなる。",
+          "アイテム",
+          "• 追加ボール：発射できるボールを増やす。",
+          "• 全消し：一撃でブロックを一掃する。",
+          "• 分裂：このラウンドの発射数を倍にし、より広くカバーする。",
+          "モード",
+          "• エンドレス：何ラウンド耐えられるか、最高記録に挑む。",
+          "• ステージ：限られたラウンド数で目標スコアに到達する。",
+          "そのほか",
+          "• プレイ中にダイヤモンドを集められる。",
+          "• リワード動画は任意。自分でタップしたときだけ再生され、ボール追加やブロックの押し戻しに使える。",
+          "• 縦画面。スマホ向けに最適化。",
+          "• ノッチとセーフエリアに対応。",
+          "• 中国語、英語、スペイン語に対応。",
+          "すぐ遊べて、やめられなくなる。跳ねるルートを見つけて、コンボを始めよう。"
+        ]
+      },
+      "ko": {
+        "name": "매직 브릭 브레이커",
+        "tagline": "조준하고 발사하세요. 공이 벽돌 사이를 튕깁니다. 각도를 맞추고 콤보를 쌓을수록 더 빨라지고 점수도 올라갑니다.",
+        "summary": "매직 브릭 브레이커는 템포가 빠른 물리 벽돌 깨기 게임입니다.",
+        "body": [
+          "플레이",
+          "• 한 손가락으로 조준하고 발사합니다. 조작은 단순합니다.",
+          "• 실제 물리 반사를 사용합니다. 벽과 벽돌에 맞는 각도가 계속 달라집니다.",
+          "• 여러 공을 한 화면에 둘 수 있고, 진행할수록 공의 수가 늘어납니다.",
+          "• 콤보: 연속으로 맞히면 가속되어 타격감이 좋아집니다.",
+          "아이템",
+          "• 공 추가: 발사할 수 있는 공의 수를 늘립니다.",
+          "• 클리어: 한 방으로 벽돌을 지웁니다.",
+          "• 분열: 이번 라운드의 발사 수를 두 배로 늘려 더 넓게 덮습니다.",
+          "모드",
+          "• 엔드리스: 몇 라운드나 버티는지 보고 최고 기록에 도전합니다.",
+          "• 스테이지: 제한된 라운드 안에 목표 점수에 도달합니다.",
+          "그 밖에도",
+          "• 플레이 중에 다이아몬드를 모을 수 있습니다.",
+          "• 보상형 동영상은 선택입니다. 직접 눌렀을 때만 재생되며, 공을 추가하거나 벽돌을 밀어 올리는 데 쓸 수 있습니다.",
+          "• 세로 화면. 휴대폰에 맞춰 최적화했습니다.",
+          "• 노치와 안전 영역에 맞춥니다.",
+          "• 중국어, 영어, 스페인어를 지원합니다.",
+          "금방 익히고, 할수록 손이 갑니다. 튕기는 경로를 찾아 콤보를 시작하세요."
+        ]
+      },
+      "de": {
+        "name": "Magic Brick Breaker",
+        "tagline": "Zielen, abfeuern und zusehen, wie der Ball zwischen den Steinen abprallt. Triff den Winkel, reihe Treffer aneinander, werde schneller und punkte höher.",
+        "summary": "Magic Brick Breaker ist ein flottes Physik-Spiel, in dem du Steine mit Bällen zerlegst.",
+        "body": [
+          "So spielt es sich",
+          "• Mit einem Finger zielen und abfeuern. Einfach zu lernen.",
+          "• Echte Physik-Abpraller. Der Winkel ändert sich an Wänden und Steinen.",
+          "• Mehrere Bälle können gleichzeitig auf dem Bildschirm sein, und ihre Zahl kann im Lauf des Spiels wachsen.",
+          "• Combos: Treffer in Folge beschleunigen den Ball und machen ihn schärfer.",
+          "Items",
+          "• Extra-Ball: mehr Bälle abfeuern.",
+          "• Räumen: ein schwerer Treffer, der Steine wegräumt.",
+          "• Teilen: verdoppelt die Bälle dieser Runde und deckt mehr Fläche ab.",
+          "Modi",
+          "• Endlos: schau, wie viele Runden du durchhältst, und jag den Rekord.",
+          "• Level: erreiche die Zielpunktzahl in einer begrenzten Zahl von Runden.",
+          "Außerdem",
+          "• Sammle während des Spiels Diamanten.",
+          "• Optionale Belohnungsvideos. Sie laufen nur, wenn du tippst, und können Bälle hinzufügen oder Steine zurückdrücken.",
+          "• Hochformat, für das Handy gebaut.",
+          "• Passt sich an Aussparungen und sichere Bereiche an.",
+          "• Chinesisch, Englisch und Spanisch.",
+          "Schnell gelernt, schwer wegzulegen. Finde die Flugbahn und starte deine Combo."
+        ]
+      },
+      "fr": {
+        "name": "Magic Brick Breaker",
+        "tagline": "Visez, tirez, et regardez la balle rebondir entre les briques. Trouvez l’angle, enchaînez les touches, accélérez et montez le score.",
+        "summary": "Magic Brick Breaker est un casse-briques physique, vif et direct.",
+        "body": [
+          "Comment on y joue",
+          "• Visez et tirez d’un doigt. Simple à prendre en main.",
+          "• De vrais rebonds physiques. L’angle change contre les murs et les briques.",
+          "• Plusieurs balles peuvent partager l’écran, et leur nombre peut augmenter en cours de partie.",
+          "• Combos : les touches d’affilée accélèrent la balle et rendent le geste plus net.",
+          "Objets",
+          "• Balle en plus : tirez davantage de balles.",
+          "• Nettoyage : un coup lourd qui élimine des briques.",
+          "• Division : double les balles de cette manche et couvre plus d’espace.",
+          "Modes",
+          "• Infini : voyez combien de manches vous tenez et visez le record.",
+          "• Niveaux : atteignez le score visé en un nombre limité de manches.",
+          "En plus",
+          "• Ramassez des diamants pendant la partie.",
+          "• Vidéos récompensées, au choix. Elles ne se lancent que si vous appuyez, et peuvent ajouter des balles ou repousser des briques.",
+          "• Interface verticale, pensée pour le téléphone.",
+          "• S’adapte aux encoches et aux zones de sécurité.",
+          "• Chinois, anglais et espagnol.",
+          "On comprend vite, on lâche difficilement. Trouvez la trajectoire et lancez votre combo."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "aclock",
+    "category": "app",
+    "sample": false,
+    "icon": "/assets/apps/aclock/logo.png",
+    "cover": "/assets/apps/aclock/banner.png",
+    "screenshots": [
+      "/assets/apps/aclock/shot-1.jpg"
+    ],
+    "status": "released",
+    "platforms": [
+      "android"
+    ],
+    "accent": "#9a3412",
+    "updated": "2026-09-30",
+    "links": {
+      "play": "https://play.google.com/store/apps/details?id=cn.imerge.alock",
+      "appstore": "",
+      "web": "",
+      "privacy": "https://aclock.z-rex.net/privacy",
+      "terms": "https://aclock.z-rex.net/terms",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "AClock",
+        "tagline": "A reminder that steps outside the usual daily or weekly cycle, with flexible rules and a background service that stays alive.",
+        "summary": "AClock is a smart reminder that breaks the usual repeat cycle. Define complex rules, and keep alerts alive in the background.",
+        "body": [
+          "Tired of a system alarm that cannot do “take this medicine every 2 days,” “meet on the fourth Saturday of the month,” or “handle this on the same date every year”?",
+          "AClock is a new reminder app built on a flexible rule engine. It drops the old limit of repeating only every day or every week, so you can shape your time the way you would write a policy.",
+          "Core features",
+          "• Rules with room to grow:",
+          "- Fixed interval: fire every N days, weeks, or months. For example, a vitamin B dose every 2 days.",
+          "- Chosen weekdays: repeat on the days you pick. For example, Friday at 12:00.",
+          "- The Nth weekday of the month: a fit for recurring meetings and backups. For example, the 4th Saturday.",
+          "- A fixed date each year: anniversaries, annual reviews, and holidays. Set it once, and it reminds you every year.",
+          "• Built to stay alive, so alerts are not dropped. Tuned for mainstream Android, including protection against the system killing the app. A persistent notification keeps the reminder ready in the background and after a restart.",
+          "• Quiet, and private. A modern dark interface, no ads, and a full JSON export on your device. Your data stays yours.",
+          "Where it fits",
+          "• Health: medicine and vitamins that are not taken every day.",
+          "• Work: weekly meetings, monthly close, and regular server backups.",
+          "• Everyday life: watering plants, a car inspection, or a payment on its own cycle."
+        ]
+      },
+      "zh-Hans": {
+        "name": "AClock",
+        "tagline": "打破传统周期的智能提醒工具。支持复杂规则定义与硬核后台保活。",
+        "summary": "AClock 是一款打破传统周期的智能提醒工具。支持复杂规则定义与硬核后台保活。",
+        "body": [
+          "还在因为系统自带闹钟无法设置“每 2 天吃一次药”、“每月第四个周六开会”或者“每年固定日期处理事务”而烦恼吗？",
+          "AClock 是一款基于灵活规则引擎打造的全新智能提醒 App。它打破了传统闹钟只能按“每天/每周”重复的 rigid 限制，让你能够像配置策略一样，随心所欲地定制属于你的时间秩序与数字化生活。",
+          "【核心功能】",
+          "• 无限可能的规则模块：",
+          "- 固定间隔：每隔 N 天/周/月触发一次（例如：每 2 天固定补充维生素 B 族）。",
+          "- 指定星期：在每周选定的某几天精准重复触发（例如：每周五中午 12:00）。",
+          "- 每月第 N 个星期 X：完美适配各类定期会议或备份活动（例如：每月第 4 个周六）。",
+          "- 每年固定日期：重要的纪念日、年审、或特定节假日，一次配置，每年提醒。",
+          "• 硬核保活，拒绝漏报：针对主流 Android 系统生态进行了深度保活适配与防杀优化。内置原生持久化通知机制，确保提醒在后台或手机重启后依然能够精准触发。",
+          "• 极简纯净与隐私安全：现代深色 UI 界面，优雅克制；完全无广告打扰，支持完善的 JSON 数据本地导出，你的数据完全由你掌控。",
+          "【适用场景】",
+          "• 健康管理：非每日周期的药物、维生素补充提醒。",
+          "• 职场效率：周期性周会、月度结算、定期服务器数据备份。",
+          "• 生活日常：养花定期浇水、定期汽车年检、特定周期还款提示。"
+        ]
+      },
+      "zh-Hant": {
+        "name": "AClock",
+        "tagline": "打破傳統週期的智慧提醒工具。支援複雜規則，並在背景持續待命。",
+        "summary": "AClock 是一款打破傳統週期的智慧提醒工具。支援複雜規則，並在背景持續待命。",
+        "body": [
+          "還在因為系統自帶鬧鐘無法設定「每 2 天吃一次藥」、「每月第四個週六開會」或「每年固定日期處理事務」而煩惱嗎？",
+          "AClock 是一款以彈性規則引擎打造的全新智慧提醒 App。它打破傳統鬧鐘只能按「每天／每週」重複的限制，讓你能像設定策略一樣，隨心安排自己的時間與數位生活。",
+          "核心功能",
+          "• 延伸空間很大的規則：",
+          "- 固定間隔：每隔 N 天／週／月觸發一次（例如：每 2 天補充一次維生素 B）。",
+          "- 指定星期：在每週選定的某幾天準時重複（例如：每週五中午 12:00）。",
+          "- 每月第 N 個星期 X：適合定期會議或備份（例如：每月第 4 個週六）。",
+          "- 每年固定日期：重要紀念日、年審或特定節日，設定一次，每年提醒。",
+          "• 扎實保活，避免漏報：針對主流 Android 做了背景存活與防被系統關閉的調整。內建持久通知，讓提醒在背景或手機重新開機後仍能準時觸發。",
+          "• 簡潔，也把隱私留在你手上：現代深色介面，沒有廣告；支援完整的 JSON 本機匯出，資料由你掌管。",
+          "適合這些時候",
+          "• 健康管理：不是每天都要吃的藥、維生素補充提醒。",
+          "• 工作：週期性週會、月結、定期的伺服器備份。",
+          "• 日常：固定替植物澆水、汽車定檢、按特定週期還款。"
+        ]
+      },
+      "es": {
+        "name": "AClock",
+        "tagline": "Un recordatorio que sale del ciclo diario o semanal, con reglas flexibles y un servicio en segundo plano que sigue activo.",
+        "summary": "AClock es un recordatorio inteligente que rompe el ciclo de repetición de siempre. Define reglas complejas y mantén los avisos vivos en segundo plano.",
+        "body": [
+          "¿Cansado de una alarma del sistema que no puede hacer «tomar esta medicina cada 2 días», «reunión el cuarto sábado del mes» o «resolver esto el mismo día cada año»?",
+          "AClock es una app de recordatorios nueva, construida sobre un motor de reglas flexible. Deja atrás el límite de repetir solo cada día o cada semana, para que organices tu tiempo como quien escribe una política.",
+          "Funciones principales",
+          "• Reglas con margen de sobra:",
+          "- Intervalo fijo: se dispara cada N días, semanas o meses. Por ejemplo, una vitamina B cada 2 días.",
+          "- Días de la semana elegidos: se repite en los días que marques. Por ejemplo, el viernes a las 12:00.",
+          "- El enésimo día de la semana del mes: encaja con reuniones y copias periódicas. Por ejemplo, el 4.º sábado.",
+          "- Una fecha fija cada año: aniversarios, revisiones anuales y festivos. Lo configuras una vez y te avisa cada año.",
+          "• Hecho para seguir activo y no perder avisos. Ajustado a Android habitual, incluida protección frente a que el sistema cierre la app. Una notificación persistente mantiene el recordatorio listo en segundo plano y tras reiniciar.",
+          "• Sobrio, y privado. Interfaz oscura y moderna, sin anuncios, y una exportación JSON completa en el dispositivo. Tus datos siguen siendo tuyos.",
+          "Dónde encaja",
+          "• Salud: medicinas y vitaminas que no se toman cada día.",
+          "• Trabajo: reuniones semanales, cierre mensual y copias de seguridad del servidor.",
+          "• Día a día: regar plantas, la inspección del coche o un pago en su propio ciclo."
+        ]
+      },
+      "ja": {
+        "name": "AClock",
+        "tagline": "毎日・毎週だけではないリマインダー。複雑なルールと、落ちにくいバックグラウンド動作。",
+        "summary": "AClock は、いつもの繰り返しから外れたスマートリマインダーです。複雑なルールを定義し、通知をバックグラウンドで生かし続けます。",
+        "body": [
+          "「2日ごとに薬を飲む」「毎月第4土曜日に会議」「毎年同じ日に手続きする」。標準のアラームでは、こうした予定が組めずに困っていませんか。",
+          "AClock は、柔軟なルールエンジンで作った新しいリマインダーです。毎日か毎週しか繰り返せない制限を外し、方針を書くように自分の時間を組み立てられます。",
+          "主な機能",
+          "• 広げられるルール：",
+          "- 固定間隔：N日・N週・Nか月ごとに鳴らす。例：2日ごとのビタミンB。",
+          "- 指定した曜日：選んだ曜日に正確に繰り返す。例：毎週金曜 12:00。",
+          "- 毎月第N X曜日：定例会議やバックアップ向き。例：毎月第4土曜日。",
+          "- 毎年の固定日：記念日、年次審査、決まった祝日。一度設定すれば、毎年知らせる。",
+          "• 取りこぼさないための常駐。主要な Android 向けに、バックグラウンド維持とシステムに終了されにくい調整を入れています。常駐通知により、背面に回っても再起動のあとでも、時刻どおりに鳴ります。",
+          "• 静かで、データは手元に。現代的なダーク画面、広告なし。JSON を端末内へ書き出せるので、データは自分のものです。",
+          "こんなときに",
+          "• 健康：毎日ではない薬やビタミン。",
+          "• 仕事：週次の会議、月次の締め、定期的なサーバーのバックアップ。",
+          "• 生活：植物の水やり、車検、周期の違う支払い。"
+        ]
+      },
+      "ko": {
+        "name": "AClock",
+        "tagline": "매일·매주만 반복하는 알람을 벗어난 리마인더. 복잡한 규칙과, 꺼지지 않는 백그라운드.",
+        "summary": "AClock은 평범한 반복 주기를 벗어난 스마트 리마인더입니다. 복잡한 규칙을 정하고, 알림이 백그라운드에서도 살아 있게 합니다.",
+        "body": [
+          "「이틀에 한 번 약 먹기」, 「매달 넷째 주 토요일 회의」, 「매년 같은 날짜에 일 처리」. 기본 알람으로는 이런 일정을 만들 수 없어 답답하지 않으셨나요?",
+          "AClock은 유연한 규칙 엔진으로 만든 새로운 리마인더입니다. 매일 또는 매주만 반복하던 한계를 벗어나, 정책을 짜듯 자신의 시간을 정할 수 있습니다.",
+          "핵심 기능",
+          "• 넓힐 수 있는 규칙:",
+          "- 고정 간격: N일, N주, N개월마다 울립니다. 예: 이틀마다 비타민 B.",
+          "- 지정 요일: 고른 요일에 정확히 반복합니다. 예: 매주 금요일 12:00.",
+          "- 매월 N번째 X요일: 정기 회의와 백업에 맞습니다. 예: 매월 넷째 토요일.",
+          "- 매년 고정 날짜: 기념일, 연례 점검, 특정 휴일. 한 번 정하면 매년 알려 줍니다.",
+          "• 놓치지 않도록 계속 살아 있습니다. 주요 Android에 맞춰 백그라운드 유지와 시스템에 의해 종료되지 않도록 조정했습니다. 지속 알림으로, 백그라운드에 있거나 휴대폰을 다시 켠 뒤에도 제시간에 울립니다.",
+          "• 조용하고, 데이터는 내 기기에. 현대적인 다크 화면, 광고 없음. JSON을 기기에 보낼 수 있어 데이터는 내가 지킵니다.",
+          "이런 때에",
+          "• 건강: 매일이 아닌 약, 비타민.",
+          "• 일: 주간 회의, 월간 마감, 정기적인 서버 백업.",
+          "• 생활: 화분 물 주기, 자동차 검사, 주기가 다른 상환."
+        ]
+      },
+      "de": {
+        "name": "AClock",
+        "tagline": "Eine Erinnerung jenseits des üblichen Tages- oder Wochenrhythmus, mit flexiblen Regeln und einem Dienst, der im Hintergrund wach bleibt.",
+        "summary": "AClock ist eine smarte Erinnerung, die den üblichen Wiederholungsrhythmus verlässt. Lege komplexe Regeln fest, und halte Hinweise im Hintergrund am Leben.",
+        "body": [
+          "Genug von einem Systemwecker, der weder „alle 2 Tage diese Medizin“, noch „jeden vierten Samstag im Monat ein Meeting“, noch „jedes Jahr am selben Datum diese Sache“ kann?",
+          "AClock ist eine neue Erinnerungs-App auf einer flexiblen Regel-Engine. Sie hebt die Grenze auf, nur täglich oder wöchentlich zu wiederholen, damit du deine Zeit wie eine Richtlinie festlegen kannst.",
+          "Kernfunktionen",
+          "• Regeln mit Spielraum:",
+          "- Festes Intervall: alle N Tage, Wochen oder Monate. Zum Beispiel Vitamin B alle 2 Tage.",
+          "- Gewählte Wochentage: Wiederholung an den Tagen, die du auswählst. Zum Beispiel Freitag um 12:00.",
+          "- Der N-te Wochentag im Monat: passend für regelmäßige Meetings und Backups. Zum Beispiel der 4. Samstag.",
+          "- Ein festes Datum jedes Jahr: Jahrestage, Jahresprüfungen, Feiertage. Einmal einrichten, jedes Jahr erinnern.",
+          "• Gebaut, um wach zu bleiben, damit nichts ausfällt. Abgestimmt auf gängiges Android, einschließlich Schutz davor, dass das System die App beendet. Eine dauerhafte Benachrichtigung hält die Erinnerung im Hintergrund und nach einem Neustart bereit.",
+          "• Ruhig, und privat. Moderne dunkle Oberfläche, keine Werbung, und ein vollständiger JSON-Export auf dem Gerät. Deine Daten bleiben deine.",
+          "Wo es passt",
+          "• Gesundheit: Medizin und Vitamine, die nicht täglich anstehen.",
+          "• Arbeit: wöchentliche Meetings, Monatsabschluss und regelmäßige Server-Backups.",
+          "• Alltag: Pflanzen gießen, die Fahrzeugprüfung oder eine Zahlung in ihrem eigenen Rhythmus."
+        ]
+      },
+      "fr": {
+        "name": "AClock",
+        "tagline": "Un rappel qui sort du cycle quotidien ou hebdomadaire, avec des règles souples et un service qui reste actif en arrière-plan.",
+        "summary": "AClock est un rappel intelligent qui sort du cycle de répétition habituel. Définissez des règles complexes, et gardez les alertes actives en arrière-plan.",
+        "body": [
+          "Marre d’une alarme système qui ne sait pas faire « prendre ce médicament tous les 2 jours », « réunion le quatrième samedi du mois » ou « traiter ceci à la même date chaque année » ?",
+          "AClock est une nouvelle app de rappels, bâtie sur un moteur de règles souple. Elle lève la limite de ne répéter que chaque jour ou chaque semaine, pour que vous régliez votre temps comme on écrit une règle.",
+          "Fonctions principales",
+          "• Des règles qui ont de la marge :",
+          "- Intervalle fixe : toutes les N jours, semaines ou mois. Par exemple, une vitamine B tous les 2 jours.",
+          "- Jours choisis : répétition les jours que vous cochez. Par exemple, le vendredi à 12:00.",
+          "- Le Nième jour de la semaine du mois : adapté aux réunions et aux sauvegardes. Par exemple, le 4e samedi.",
+          "- Une date fixe chaque année : anniversaires, contrôles annuels, jours fériés. On le règle une fois, il rappelle chaque année.",
+          "• Conçu pour rester actif, afin de ne pas manquer une alerte. Ajusté aux Android courants, y compris une protection contre la fermeture par le système. Une notification persistante garde le rappel prêt en arrière-plan et après un redémarrage.",
+          "• Sobre, et privé. Interface sombre et moderne, sans publicité, et un export JSON complet sur l’appareil. Vos données restent les vôtres.",
+          "Là où ça sert",
+          "• Santé : médicaments et vitamines qui ne se prennent pas chaque jour.",
+          "• Travail : réunions hebdomadaires, clôture mensuelle et sauvegardes régulières du serveur.",
+          "• Quotidien : arroser les plantes, le contrôle de la voiture, ou un paiement sur son propre cycle."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "pulse",
+    "category": "site",
+    "sample": false,
+    "icon": "/assets/apps/pulse/logo.svg",
+    "cover": "",
+    "screenshots": [
+      ""
+    ],
+    "status": "released",
+    "platforms": [
+      "web"
+    ],
+    "accent": "#9a3412",
+    "updated": "2026-09-30",
+    "links": {
+      "play": "",
+      "appstore": "",
+      "web": "https://pulse.z-rex.net/",
+      "privacy": "https://pulse.z-rex.net/privacy",
+      "terms": "https://pulse.z-rex.net/terms",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "Pulse",
+        "tagline": "Original writing on what matters today.",
+        "summary": "Pulse watches headlines around the world, keeps the stories that actually matter, and writes original long pieces in Chinese, English, and Spanish.",
+        "body": [
+          "Pulse watches headlines around the world, keeps the stories that actually matter, and writes original long pieces in Chinese, English, and Spanish."
+        ]
+      },
+      "zh-Hans": {
+        "name": "Pulse",
+        "tagline": "关于今日热点的原创分析",
+        "summary": "Pulse 观察全球头条，留下真正重要的故事，并用中文、英文和西班牙文撰写原创长文。",
+        "body": [
+          "Pulse 观察全球头条，留下真正重要的故事，并用中文、英文和西班牙文撰写原创长文。"
+        ]
+      },
+      "zh-Hant": {
+        "name": "Pulse",
+        "tagline": "關於今日熱點的原創分析",
+        "summary": "Pulse 觀察全球頭條，留下真正重要的故事，並用中文、英文和西班牙文撰寫原創長文。",
+        "body": [
+          "Pulse 觀察全球頭條，留下真正重要的故事，並用中文、英文和西班牙文撰寫原創長文。"
+        ]
+      },
+      "es": {
+        "name": "Pulse",
+        "tagline": "Análisis originales de lo que importa hoy.",
+        "summary": "Pulse observa los titulares del mundo, se queda con las historias que de verdad importan y escribe textos largos originales en chino, inglés y español.",
+        "body": [
+          "Pulse observa los titulares del mundo, se queda con las historias que de verdad importan y escribe textos largos originales en chino, inglés y español."
+        ]
+      },
+      "ja": {
+        "name": "Pulse",
+        "tagline": "今日の話題を、独自の視点で読み解く。",
+        "summary": "Pulse は世界の見出しを見つめ、本当に重要な物語だけを残し、中国語・英語・スペイン語でオリジナルの長文を書きます。",
+        "body": [
+          "Pulse は世界の見出しを見つめ、本当に重要な物語だけを残し、中国語・英語・スペイン語でオリジナルの長文を書きます。"
+        ]
+      },
+      "ko": {
+        "name": "Pulse",
+        "tagline": "오늘의 이슈를 독창적으로 읽습니다.",
+        "summary": "Pulse는 세계의 헤드라인을 살펴 정말 중요한 이야기만 남기고, 중국어·영어·스페인어로 독창적인 장문을 씁니다.",
+        "body": [
+          "Pulse는 세계의 헤드라인을 살펴 정말 중요한 이야기만 남기고, 중국어·영어·스페인어로 독창적인 장문을 씁니다."
+        ]
+      },
+      "de": {
+        "name": "Pulse",
+        "tagline": "Eigene Texte zu dem, was heute zählt.",
+        "summary": "Pulse beobachtet Schlagzeilen aus aller Welt, behält die Geschichten, die wirklich zählen, und schreibt eigene Langtexte auf Chinesisch, Englisch und Spanisch.",
+        "body": [
+          "Pulse beobachtet Schlagzeilen aus aller Welt, behält die Geschichten, die wirklich zählen, und schreibt eigene Langtexte auf Chinesisch, Englisch und Spanisch."
+        ]
+      },
+      "fr": {
+        "name": "Pulse",
+        "tagline": "Des textes originaux sur ce qui compte aujourd’hui.",
+        "summary": "Pulse suit les titres du monde, ne garde que les histoires qui comptent vraiment, et écrit des textes longs originaux en chinois, en anglais et en espagnol.",
+        "body": [
+          "Pulse suit les titres du monde, ne garde que les histoires qui comptent vraiment, et écrit des textes longs originaux en chinois, en anglais et en espagnol."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "g2-tools",
+    "category": "site",
+    "sample": false,
+    "icon": "/assets/apps/g20/logo.svg",
+    "cover": "",
+    "screenshots": [
+      ""
+    ],
+    "status": "released",
+    "platforms": [
+      "web"
+    ],
+    "accent": "#9a3412",
+    "updated": "2026-09-30",
+    "links": {
+      "play": "",
+      "appstore": "",
+      "web": "https://g20.z-rex.net/",
+      "privacy": "",
+      "terms": "",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "G20",
+        "tagline": "G20 (g20tracker) helps developers track Google Play closed-testing partnerships.",
+        "summary": "Daily check-ins, streaks, a reply log, and CSV export. All of it stays in your browser.",
+        "body": [
+          "Track mutual closed-testing partnerships on Google Play. Daily check-ins, streak counts, and a reply log are stored locally in your browser."
+        ]
+      },
+      "zh-Hans": {
+        "name": "G20",
+        "tagline": "G20（g20tracker）助力开发者追踪Google Play封闭测试合作伙伴关系",
+        "summary": "每日签到、连续签到、回复日志以及CSV导出。所有数据都保存在您的浏览器中。",
+        "body": [
+          "追踪Google Play的相互测试合作伙伴关系。每日签到、连续签到次数和回复日志——这些信息都会本地存储在您的浏览器中。"
+        ]
+      },
+      "zh-Hant": {
+        "name": "G20",
+        "tagline": "G20（g20tracker）協助開發者追蹤 Google Play 封閉測試的合作夥伴關係",
+        "summary": "每日簽到、連續簽到、回覆紀錄以及 CSV 匯出。所有資料都保存在您的瀏覽器中。",
+        "body": [
+          "追蹤 Google Play 的相互測試合作夥伴關係。每日簽到、連續簽到次數和回覆紀錄，都會儲存在您的瀏覽器本機。"
+        ]
+      },
+      "es": {
+        "name": "G20",
+        "tagline": "G20 (g20tracker) ayuda a los desarrolladores a seguir las colaboraciones de pruebas cerradas en Google Play.",
+        "summary": "Registros diarios, rachas, un registro de respuestas y exportación CSV. Todo queda en tu navegador.",
+        "body": [
+          "Sigue las colaboraciones de pruebas mutuas en Google Play. Los registros diarios, las rachas y el registro de respuestas se guardan en local en tu navegador."
+        ]
+      },
+      "ja": {
+        "name": "G20",
+        "tagline": "G20（g20tracker）は、開発者が Google Play のクローズドテストの提携を追うための道具です。",
+        "summary": "毎日のチェックイン、連続日数、返信ログ、CSV 書き出し。データはすべてブラウザに残ります。",
+        "body": [
+          "Google Play の相互テストの提携を追います。毎日のチェックイン、連続日数、返信ログは、ブラウザ内にローカル保存されます。"
+        ]
+      },
+      "ko": {
+        "name": "G20",
+        "tagline": "G20(g20tracker)는 개발자가 Google Play 비공개 테스트 파트너 관계를 추적하도록 돕습니다.",
+        "summary": "매일 체크인, 연속 체크인, 답장 기록, CSV 내보내기. 데이터는 모두 브라우저에 남습니다.",
+        "body": [
+          "Google Play의 상호 테스트 파트너 관계를 추적합니다. 매일 체크인, 연속 횟수, 답장 기록은 브라우저에 로컬로 저장됩니다."
+        ]
+      },
+      "de": {
+        "name": "G20",
+        "tagline": "G20 (g20tracker) hilft Entwicklern, Partnerschaften für geschlossene Tests bei Google Play zu verfolgen.",
+        "summary": "Tägliche Check-ins, Serien, ein Antwortprotokoll und CSV-Export. Alle Daten bleiben in deinem Browser.",
+        "body": [
+          "Verfolge gegenseitige Test-Partnerschaften bei Google Play. Tägliche Check-ins, Serienzähler und das Antwortprotokoll werden lokal in deinem Browser gespeichert."
+        ]
+      },
+      "fr": {
+        "name": "G20",
+        "tagline": "G20 (g20tracker) aide les développeurs à suivre les partenariats de tests fermés sur Google Play.",
+        "summary": "Pointages quotidiens, séries, journal des réponses et export CSV. Toutes les données restent dans votre navigateur.",
+        "body": [
+          "Suivez les partenariats de tests mutuels sur Google Play. Les pointages quotidiens, les séries et le journal des réponses sont stockés localement dans votre navigateur."
+        ]
+      }
+    }
+  }
+]
