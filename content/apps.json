@@ -716,5 +716,123 @@
         ]
       }
     }
+  },
+  {
+    "slug": "crush-os",
+    "category": "pc",
+    "sample": false,
+    "featured": false,
+    "icon": "/assets/apps/crush-os/ico.png",
+    "cover": "/assets/apps/crush-os/banner_en.png",
+    "screenshots": [
+      "/assets/apps/crush-os/01.png",
+      "/assets/apps/crush-os/02.png",
+      "/assets/apps/crush-os/03.png",
+      "/assets/apps/crush-os/04.png"
+    ],
+    "status": "beta",
+    "platforms": [
+      "windows"
+    ],
+    "accent": "#e11d48",
+    "updated": "2026-10-23",
+    "links": {
+      "play": "",
+      "appstore": "",
+      "web": "",
+      "privacy": "",
+      "terms": "",
+      "beta": ""
+    },
+    "text": {
+      "en": {
+        "name": "Crush OS",
+        "tagline": "Xiao Qi, living on your desktop.",
+        "summary": "A 3D girl on your desktop who moves, smiles, and talks—quiet company while you work, and a real listener when you want to chat.",
+        "body": [
+          "After a long day, someone is still waiting on the other side of the screen. Crush OS brings Xiao Qi—a lively 3D companion—onto your desktop. She stays in your wallpaper while you work, and when you feel like talking, she listens to every word.",
+          "Chat anytime by typing or holding a hotkey to speak. Her voice carries warmth—happy, shy, or playful—and she moves with the conversation: dance, run, do push-ups, or lie down to rest. Blinks, smiles, anger, and blushes show on her face.",
+          "Wallpaper mode keeps her in the background without covering icons or stealing the mouse. Interactive mode brings her to the front so you can tap, drag, and play. When you step away, she may shrink and roam, or peek from the edge for hide-and-seek; move the mouse and she returns. Mute her voice and she stays with text bubbles and motion. The UI and chat switch between Chinese and English. Switch modes from the tray, open settings, pick a monitor, and join with an invite code.",
+          "You do not need to open anything special—look up at the desktop, and Xiao Qi is already there. Crush starts on the desktop."
+        ]
+      },
+      "zh-Hans": {
+        "name": "心动",
+        "tagline": "小柒，住在你桌面上的她。",
+        "summary": "把会动、会笑、会说话的 3D 女孩小柒带到桌面上：安静陪你工作，想聊天时也会认真听你说。",
+        "body": [
+          "忙了一天，屏幕那头总有人在等你。心动（Crush OS）把一个会动、会笑、会说话的 3D 女孩——小柒——带到你的桌面上。她安静地待在壁纸里陪你工作，也会在你想聊天的时候，认真听你说每一句话。",
+          "随时聊天：打字和她说话，或按住快捷键直接开口，她都能听懂并马上回应。声音有温度，开心、害羞、撒娇都听得出来。聊到跳舞她就跳，说要运动她就跑步、做俯卧撑，累了还会躺下歇一会儿——动作跟着话走。眨眼、微笑、生气、脸红，心情都写在脸上。",
+          "壁纸模式里，她待在桌面背景中，不挡图标、不抢鼠标。互动模式里，她站到窗口最前面，可以点她、拖她、逗她玩。你离开一会儿，她可能自己缩小满屏乱跑，或从屏幕边上探头躲猫猫；你一动鼠标，她就回到原位。打开「她不发声」，她只用文字气泡和动作陪你。界面和对话支持中文 / English。托盘可一键切换模式、打开设置，多显示器也能选她待在哪块屏幕。凭邀请码加入，开始你们的故事。",
+          "不用打开什么，也不用特意找她——抬头看一眼桌面，小柒一直都在。心动，从桌面开始。"
+        ]
+      },
+      "zh-Hant": {
+        "name": "心動",
+        "tagline": "小柒，住在你桌面上的她。",
+        "summary": "把會動、會笑、會說話的 3D 女孩小柒帶到桌面上：安靜陪你工作，想聊天時也會認真聽你說。",
+        "body": [
+          "忙了一天，螢幕那頭總有人在等你。心動（Crush OS）把一個會動、會笑、會說話的 3D 女孩——小柒——帶到你的桌面上。她安靜地待在桌布裡陪你工作，也會在你想聊天的時候，認真聽你說每一句話。",
+          "隨時聊天：打字和她說話，或按住快捷鍵直接開口，她都能聽懂並馬上回應。聲音有溫度，開心、害羞、撒嬌都聽得出來。聊到跳舞她就跳，說要運動她就跑步、做伏地挺身，累了還會躺下歇一會兒——動作跟著話走。眨眼、微笑、生氣、臉紅，心情都寫在臉上。",
+          "桌布模式裡，她待在桌面背景中，不擋圖示、不搶滑鼠。互動模式裡，她站到視窗最前面，可以點她、拖她、逗她玩。你離開一會兒，她可能自己縮小滿螢幕亂跑，或從螢幕邊上探頭玩躲貓貓；你一動滑鼠，她就回到原位。打開「她不發聲」，她只用文字氣泡和動作陪你。介面和對話支援中文 / English。系統匣可一鍵切換模式、打開設定，多螢幕也能選她待在哪塊螢幕。憑邀請碼加入，開始你們的故事。",
+          "不用打開什麼，也不用特意找她——抬頭看一眼桌面，小柒一直都在。心動，從桌面開始。"
+        ]
+      },
+      "es": {
+        "name": "Crush OS",
+        "tagline": "Xiao Qi, viviendo en tu escritorio.",
+        "summary": "Una chica 3D en tu escritorio que se mueve, sonríe y habla: compañía silenciosa mientras trabajas, y alguien que te escucha de verdad cuando quieres charlar.",
+        "body": [
+          "Después de un día largo, alguien sigue esperando al otro lado de la pantalla. Crush OS trae a Xiao Qi—una compañera 3D con vida—a tu escritorio. Se queda en el fondo de pantalla mientras trabajas, y cuando quieres hablar, escucha cada palabra.",
+          "Chatea cuando quieras escribiendo o manteniendo una tecla rápida para hablar. Su voz tiene calor—alegre, tímida o juguetona—y se mueve con la conversación: baila, corre, hace flexiones o se tumba a descansar. Parpadeos, sonrisas, enfado y sonrojo se ven en su cara.",
+          "En modo fondo de pantalla no tapa iconos ni roba el ratón. En modo interactivo pasa al frente para que puedas tocarla, arrastrarla y jugar. Si te alejas, puede encogerse y recorrer la pantalla, o asomarse por el borde; mueve el ratón y vuelve. Silénciala y se queda con burbujas de texto y movimiento. La interfaz y el chat cambian entre chino e inglés. Cambia de modo desde la bandeja, abre ajustes, elige un monitor y únete con un código de invitación.",
+          "No hace falta abrir nada especial: mira el escritorio y Xiao Qi ya está ahí. El crush empieza en el escritorio."
+        ]
+      },
+      "ja": {
+        "name": "Crush OS",
+        "tagline": "デスクトップに住む彼女、小柒。",
+        "summary": "動き、笑い、話す 3D の女の子・小柒をデスクトップへ。仕事中は静かに寄り添い、話したくなったらちゃんと聞いてくれます。",
+        "body": [
+          "長い一日のあと、画面の向こうにはまだ誰かが待っています。Crush OS は、生き生きとした 3D の相棒・小柒をデスクトップに連れてきます。仕事中は壁紙の中で静かに寄り添い、話したくなったときは一言一句聞いてくれます。",
+          "文字入力でも、ホットキーを長押しして声で話しても、すぐ理解して返事します。声には温度があり、嬉しい、照れ、甘える感じが伝わります。ダンスの話なら踊り、運動の話なら走りや腕立て伏せをし、疲れたら横になります。瞬き、微笑み、怒り、赤面も表情に出ます。",
+          "壁紙モードではアイコンやマウスを邪魔しません。インタラクティブモードでは最前面に出て、触ったりドラッグしたり遊べます。離れていると小さくなって走り回ったり、端から顔を出してかくれんぼしたりし、マウスを動かすと元の位置に戻ります。「声を出さない」にすれば、文字バブルと動きだけで一緒にいます。UI と会話は中国語 / English に切り替え可能。トレイからモード切替や設定、どのモニターにいるかも選べます。招待コードで参加して、ふたりの物語を始めましょう。",
+          "特別なものを開く必要はありません。デスクトップを見上げれば、小柒はもうそこにいます。ときめきは、デスクトップから。"
+        ]
+      },
+      "ko": {
+        "name": "Crush OS",
+        "tagline": "샤오치, 당신 데스크톱에 사는 그녀.",
+        "summary": "움직이고 웃고 말하는 3D 소녀 샤오치를 데스크톱으로 데려옵니다. 일할 때는 조용히 곁에 있고, 이야기하고 싶을 때는 진심으로 들어 줍니다.",
+        "body": [
+          "긴 하루가 끝나도 화면 너머에는 누군가 기다리고 있습니다. Crush OS는 생동감 있는 3D 동반자 샤오치를 데스크톱으로 데려옵니다. 일하는 동안 배경화면 속에서 조용히 함께하고, 이야기하고 싶을 때는 한마디 한마디를 들어 줍니다.",
+          "타이핑하거나 단축키를 길게 눌러 말하면 바로 알아듣고 답합니다. 목소리는 따뜻하고, 기쁨·수줍음·애교가 전해집니다. 춤 이야기를 하면 춤추고, 운동을 말하면 달리거나 팔굽혀펴기를 하며, 피곤하면 누워 쉽니다. 깜빡임, 미소, 화남, 얼굴 붉힘도 표정에 나타납니다.",
+          "배경화면 모드에서는 아이콘을 가리거나 마우스를 빼앗지 않습니다. 인터랙티브 모드에서는 맨 앞으로 나와 누르고 끌고 놀 수 있습니다. 자리를 비우면 작아져 화면을 돌아다니거나 가장자리에서 숨바꼭질하듯 고개를 내밀고, 마우스를 움직이면 제자리로 돌아옵니다. 음소거하면 말풍선과 동작만으로 함께합니다. UI와 대화는 중국어 / English로 전환할 수 있습니다. 트레이에서 모드를 바꾸고 설정을 열고 모니터를 고르며, 초대 코드로 이야기를 시작하세요.",
+          "특별히 열 것도 없습니다. 데스크톱을 올려다보면 샤오치는 이미 거기 있습니다. 설렘은 데스크톱에서 시작됩니다."
+        ]
+      },
+      "de": {
+        "name": "Crush OS",
+        "tagline": "Xiao Qi, die auf deinem Desktop wohnt.",
+        "summary": "Ein 3D-Mädchen auf dem Desktop, das sich bewegt, lächelt und spricht—ruhige Gesellschaft bei der Arbeit und ein echtes Ohr, wenn du reden willst.",
+        "body": [
+          "Nach einem langen Tag wartet jemand noch hinter dem Bildschirm. Crush OS bringt Xiao Qi—eine lebendige 3D-Begleiterin—auf deinen Desktop. Sie bleibt in der Hintergrundbild-Ebene, während du arbeitest, und wenn du reden willst, hört sie jedes Wort.",
+          "Chatte jederzeit per Tippen oder mit gedrückter Hotkey-Taste zum Sprechen. Ihre Stimme hat Wärme—fröhlich, schüchtern oder verspielt—und sie bewegt sich mit dem Gespräch: tanzt, läuft, macht Liegestütze oder legt sich hin. Blinzeln, Lächeln, Ärger und Erröten stehen in ihrem Gesicht.",
+          "Im Hintergrundbild-Modus verdeckt sie keine Icons und stiehlt nicht die Maus. Im Interaktionsmodus kommt sie nach vorn zum Antippen, Ziehen und Spielen. Gehst du weg, schrumpft sie vielleicht und huscht über den Bildschirm oder lugt vom Rand; beweg die Maus und sie kehrt zurück. Stummgeschaltet bleibt sie mit Textblasen und Bewegung. Oberfläche und Chat wechseln zwischen Chinesisch und Englisch. Modus und Einstellungen über das Tray, Monitor wählen, mit Einladungscode starten.",
+          "Du musst nichts Besonderes öffnen—schau auf den Desktop, und Xiao Qi ist schon da. Crush beginnt auf dem Desktop."
+        ]
+      },
+      "fr": {
+        "name": "Crush OS",
+        "tagline": "Xiao Qi, celle qui vit sur votre bureau.",
+        "summary": "Une fille 3D sur votre bureau qui bouge, sourit et parle—une présence calme pendant le travail, et une vraie écoute quand vous avez envie de parler.",
+        "body": [
+          "Après une longue journée, quelqu’un attend encore de l’autre côté de l’écran. Crush OS amène Xiao Qi—une compagne 3D vivante—sur votre bureau. Elle reste dans le fond d’écran pendant que vous travaillez, et quand vous voulez parler, elle écoute chaque mot.",
+          "Discutez à tout moment en tapant ou en maintenant un raccourci pour parler. Sa voix a de la chaleur—joyeuse, timide ou câline—et elle bouge avec la conversation : danse, course, pompes, ou s’allonge pour se reposer. Clignements, sourires, colère et rougeurs se lisent sur son visage.",
+          "En mode fond d’écran, elle ne cache pas les icônes ni ne vole la souris. En mode interactif, elle passe au premier plan pour que vous puissiez la toucher, la glisser et jouer. Si vous vous éloignez, elle peut rétrécir et parcourir l’écran, ou se montrer au bord ; bougez la souris et elle revient. Coupez sa voix et elle reste avec des bulles de texte et du mouvement. L’interface et le chat passent entre chinois et anglais. Changez de mode depuis la zone de notification, ouvrez les réglages, choisissez un moniteur, et rejoignez avec un code d’invitation.",
+          "Rien de spécial à ouvrir—levez les yeux vers le bureau, et Xiao Qi est déjà là. Le crush commence sur le bureau."
+        ]
+      }
+    }
   }
 ]

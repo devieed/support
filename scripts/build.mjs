@@ -31,6 +31,7 @@ const LANG_LABELS = {
 const SECTIONS = [
   { id: "game", anchor: "games", title: "games", lead: "gamesLead", empty: "emptyGames" },
   { id: "app", anchor: "apps", title: "apps", lead: "appsLead", empty: "emptyApps" },
+  { id: "pc", anchor: "pcs", title: "pcs", lead: "pcsLead", empty: "emptyPcs" },
   { id: "site", anchor: "sites", title: "sites", lead: "sitesLead", empty: "emptySites" },
 ];
 
@@ -46,6 +47,7 @@ const ICONS = {
   doc: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l5 5v12a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M14 3v5h5M9 13h6M9 17h6" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
   game: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 8h10a4 4 0 0 1 4 4v1.5a3.5 3.5 0 0 1-6.3 2.1L14 15h-4l-.7.6A3.5 3.5 0 0 1 3 13.5V12a4 4 0 0 1 4-4Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8 11v3M6.5 12.5h3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="15.5" cy="11.5" r="1" fill="currentColor"/><circle cx="17.5" cy="13.5" r="1" fill="currentColor"/></svg>',
   app: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="7" height="7" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><rect x="13" y="4" width="7" height="7" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><rect x="4" y="13" width="7" height="7" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><rect x="13" y="13" width="7" height="7" rx="2" fill="none" stroke="currentColor" stroke-width="2"/></svg>',
+  pc: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 20h8M12 16v4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>',
 };
 ICONS.site = ICONS.globe;
 
@@ -562,6 +564,11 @@ function storeButtons(bundle, app, variant) {
     if (web) out.push(storeLink(cls, web, ICONS.globe, hostname(web), bundle.app.visit));
     return out.join("");
   }
+  if (app.category === "pc") {
+    const web = safeUrl(links.web);
+    if (web) out.push(storeLink(cls, web, ICONS.pc, bundle.app.download, hostname(web)));
+    return out.join("");
+  }
   const play = safeUrl(links.play);
   const appstore = safeUrl(links.appstore);
   const web = safeUrl(links.web);
@@ -667,10 +674,12 @@ function appJsonLd(lang, app, text) {
   if (app.category === "site") {
     return JSON.stringify({ ...base, "@type": "WebSite", sameAs: safeUrl(app.links?.web) || undefined }).replaceAll("<", "\\u003c");
   }
+  const applicationCategory =
+    app.category === "game" ? "GameApplication" : app.category === "pc" ? "DesktopApplication" : "UtilitiesApplication";
   return JSON.stringify({
     ...base,
     "@type": app.category === "game" ? "VideoGame" : "SoftwareApplication",
-    applicationCategory: app.category === "game" ? "GameApplication" : "UtilitiesApplication",
+    applicationCategory,
     operatingSystem: platformNames(messages[lang.id], app).join(", "),
     screenshot: (app.screenshots || []).map(absAsset).filter(Boolean),
     offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
@@ -678,13 +687,19 @@ function appJsonLd(lang, app, text) {
 }
 
 function platformNames(bundle, app) {
-  const labels = { android: bundle.app.android, ios: bundle.app.ios, web: bundle.app.webPlatform };
+  const labels = {
+    android: bundle.app.android,
+    ios: bundle.app.ios,
+    web: bundle.app.webPlatform,
+    windows: bundle.app.windows,
+  };
   return (app.platforms || []).map((id) => labels[id] || id);
 }
 
 function categoryLabel(bundle, app) {
   if (app.category === "game") return bundle.app.catGame;
   if (app.category === "app") return bundle.app.catApp;
+  if (app.category === "pc") return bundle.app.catPc;
   return bundle.app.catSite;
 }
 
@@ -819,7 +834,7 @@ function validateApps(list) {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(app.slug || "")) throw new Error(`Invalid slug: ${app.slug}`);
     if (slugs.has(app.slug)) throw new Error(`Duplicate slug: ${app.slug}`);
     slugs.add(app.slug);
-    if (!["game", "app", "site"].includes(app.category)) throw new Error(`Invalid category for ${app.slug}`);
+    if (!["game", "app", "pc", "site"].includes(app.category)) throw new Error(`Invalid category for ${app.slug}`);
     if (app.status !== "released" && app.status !== "beta") throw new Error(`Invalid status for ${app.slug}`);
     const english = app.text && app.text.en;
     if (!english?.name || !english.tagline || !english.summary || !Array.isArray(english.body)) {
